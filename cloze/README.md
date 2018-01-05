@@ -1,9 +1,9 @@
 # Multi Word Cloze
 
-RNN and GRU cell implementation in PyTorch, with their bidirectional language model.
-The problem is to complete the missing words in a sentence (Cloze)
-More info: http://mt-class.org/jhu/nn_hw4.html
-Specify optimization method and training arguments in the training script.
+RNN and GRU cell implementation in PyTorch, with their bidirectional language model.  
+The problem is to complete the missing words in a sentence (Cloze).  
+More info: http://mt-class.org/jhu/nn_hw4.html  
+Specify optimization method and training arguments in the training script.  
 
 ## Running
 
