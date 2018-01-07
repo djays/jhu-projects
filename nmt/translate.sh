@@ -1,0 +1,1 @@
+python Translator.py --batch_size 50 --model_file trained.model.nll_0.16.epoch_1
